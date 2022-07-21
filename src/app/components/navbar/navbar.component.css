@@ -1,0 +1,9 @@
+.navBar{
+    background-color: rgb(255, 232, 81);
+    height: 500px;
+}
+
+ul li a{
+    font-weight: 600;
+    color: rgb(67, 54, 159);
+}
